@@ -9,7 +9,11 @@
             "email": "a_y_e_z_z_07@hotmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "illuminate/http": "^5.2",
+        "illuminate/view": "^5.2",
+        "illuminate/routing": "^5.2"
+    },
     "autoload": {
         "psr-4":{
             "platziPHP\\":"src/"

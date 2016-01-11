@@ -7,11 +7,11 @@ class Usuarios
     /**
      * @type string
      */
-    protected $email;
+    public $email;
     /**
      * @type string
      */
-    protected $password;
+    public $password;
     /**
      * @type string
      */

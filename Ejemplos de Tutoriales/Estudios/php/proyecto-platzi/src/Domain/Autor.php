@@ -6,7 +6,7 @@
  * Time: 11:25 AM
  */
 
-namespace platziPHP;
+namespace platziPHP\Domain;
 
 
 class Autor extends Usuarios

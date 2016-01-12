@@ -5,7 +5,7 @@
  * Date: 10/01/16
  * Time: 05:56 PM
  */
-namespace platziPHP;
+namespace platziPHP\Infraestructura;
 
 use Illuminate\Support\Collection;
 

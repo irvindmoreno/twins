@@ -1,5 +1,5 @@
 <?php
-namespace platziPHP;
+namespace platziPHP\Domain;
 
 
 class Usuarios
